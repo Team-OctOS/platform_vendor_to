@@ -1,0 +1,8 @@
+[
+    {
+        "remote":      "github",
+        "repository":  "ujwalp15/android_device_google_sprout4",
+        "target_path": "device/google/sprout4",
+        "revision":    "to-5.1"
+    }
+]
