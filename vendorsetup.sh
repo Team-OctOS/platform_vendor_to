@@ -30,3 +30,4 @@ add_lunch_combo to_t0lte-userdebug
 add_lunch_combo to_us990-userdebug
 add_lunch_combo to_victara-userdebug
 add_lunch_combo to_vs985-userdebug
+add_lunch_combo to_onyx-userdebug
