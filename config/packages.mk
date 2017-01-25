@@ -12,7 +12,6 @@ PRODUCT_PACKAGES += \
     OctOTA \
     OmniSwitch \
     PixelLauncher \
-    KernelAdiutor \
     substratum \
     WallpaperPickerGoogle
 
